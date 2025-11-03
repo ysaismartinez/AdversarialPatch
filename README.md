@@ -26,7 +26,6 @@ Everything is designed to run automatically on **Google Colab** or locally with 
    No manual configuration is required.
 
 3. **Check the outputs**  
-   - Saved results are stored in the `results/` folder (for example, `example_1.png`)
    - You’ll see side-by-side comparisons with model confidence scores before and after patching
 
 ---
