@@ -47,7 +47,6 @@ AdversarialPatch/
 │
 ├── imagenet_classes.txt      # ImageNet label names (required)
 ├── ysais_adversarial_patch_full.ipynb   # Main notebook
-├── results/                  # Automatically created for outputs
 └── README.md
 ```
 
